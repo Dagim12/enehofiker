@@ -1,0 +1,226 @@
+# <!=Copyright (C) 2021 Rara Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Revive Charity 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/revive-charity\n"
+"POT-Creation-Date: 2021-11-26 10:32:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: archive-give_forms.php:27
+msgid "Page"
+msgstr ""
+
+#: functions.php:77
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:87
+msgid "Need help?"
+msgstr ""
+
+#: functions.php:88
+msgid "View demo"
+msgstr ""
+
+#: functions.php:88 functions.php:89 functions.php:90 functions.php:91
+msgid "here"
+msgstr ""
+
+#: functions.php:89
+msgid "View documentation"
+msgstr ""
+
+#: functions.php:90
+msgid "Support ticket"
+msgstr ""
+
+#: functions.php:91
+msgid "More Details"
+msgstr ""
+
+#: functions.php:95
+msgid "About Revive Charity"
+msgstr ""
+
+#: functions.php:111
+msgid "Give Section"
+msgstr ""
+
+#: functions.php:129
+msgid "Enable Give Section"
+msgstr ""
+
+#: functions.php:148
+msgid "Give Section Title"
+msgstr ""
+
+#: functions.php:172
+msgid "Give Section Content"
+msgstr ""
+
+#: functions.php:188 sections/section-blog.php:12
+msgid "READ ALL BLOG"
+msgstr ""
+
+#: functions.php:196
+msgid "Blog Section View All Text"
+msgstr ""
+
+#: functions.php:214
+msgid "View All Url"
+msgstr ""
+
+#: functions.php:224 sections/section-community.php:13
+msgid "LEARN MORE"
+msgstr ""
+
+#: functions.php:232
+msgid "Community Section Read more Text"
+msgstr ""
+
+#: functions.php:253
+msgid "Upload Logo Six"
+msgstr ""
+
+#: functions.php:272
+msgid "Logo Six Url"
+msgstr ""
+
+#: functions.php:293
+msgid "Upload Logo Seven"
+msgstr ""
+
+#: functions.php:312
+msgid "Logo Seven Url"
+msgstr ""
+
+#: functions.php:333
+msgid "Upload Logo Eight"
+msgstr ""
+
+#: functions.php:352
+msgid "Logo Eight Url"
+msgstr ""
+
+#: functions.php:443
+msgid "Give Donation Plugin"
+msgstr ""
+
+#: functions.php:496
+msgid "&copy; "
+msgstr ""
+
+#: functions.php:496
+msgid "Y"
+msgstr ""
+
+#: functions.php:504
+msgid "Revive Charity | Developed By "
+msgstr ""
+
+#: functions.php:505
+msgid "Rara Theme"
+msgstr ""
+
+#: functions.php:506
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:506
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: give/shortcode-goal.php:98
+#. translators: 1: amount of income raised 2: goal target amount.
+msgid ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"raised"
+msgstr ""
+
+#: give/shortcode-goal.php:107 give/shortcode-goal.php:112
+#. translators: 1: total number of donations completed 2: total number of
+#. donations set as goal
+#. translators: 1: total number of donors completed 2: total number of donors
+#. set as goal
+msgid ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"donation"
+msgid_plural ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"donations"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sections/section-blog.php:11
+msgid "Read More"
+msgstr ""
+
+#: sections/section-give.php:10 template-parts/content-give-form.php:9
+msgid "Donate Now"
+msgstr ""
+
+#: sections/section-give.php:75
+msgid "Goal: "
+msgstr ""
+
+#: sections/section-give.php:76
+msgid "Raised: "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Revive Charity"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/revive-charity"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Revive Charity is a beautiful theme for creating websites for non-profit "
+"organizations like charity, INGO, NGO, trust, foundation and so on. The "
+"theme is compatible with the Give plugin which allows you to collect "
+"donations for your cause. This theme includes several sections such as "
+"Banner, Intro, Causes, Donation and Call to Action that help to create a "
+"perfect landing page with the information about your organization. The "
+"theme is SEO-friendly with optimized codes, which make it easy for your "
+"site to rank on search engines. Revive Charity is optimized to load fast, "
+"is translation-ready, mobile-friendly and schema ready. Check the demo at "
+"https://rarathemes.com/previews/?theme=revive-charity/, documentation at "
+"https://docs.rarathemes.com/docs/revive-charity/ and get support at "
+"https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: functions.php:521
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Lexend Deca: on or off"
+msgid "on"
+msgstr ""

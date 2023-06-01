@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: Revive Charity Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080/charity
+Data file = C:\wamp64\www\charity/wp-content/uploads/rara-demo-pack/revive-charity-demo-content/content/revivecharity.xml
+Widget file = C:\wamp64\www\charity/wp-content/uploads/rara-demo-pack/revive-charity-demo-content/content/revivecharity.wie
+Customizer file = C:\wamp64\www\charity/wp-content/uploads/rara-demo-pack/revive-charity-demo-content/content/revivecharity.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import "Make a Wish Foundation": Invalid post type give_forms
+[WARNING] Failed to import "Help a Child": Invalid post type give_forms
+[WARNING] Failed to import "Save the Bees": Invalid post type give_forms
+
+
+---Importing content---
+[WARNING] Failed to import "Make a Wish Foundation": Invalid post type give_forms
+[WARNING] Failed to import "Help a Child": Invalid post type give_forms
+[WARNING] Failed to import "Save the Bees": Invalid post type give_forms
+[WARNING] Failed to import "Default Kit": Invalid post type elementor_library
+[WARNING] Failed to import "1": Invalid post type give_payment
+[WARNING] Failed to import "2": Invalid post type give_payment
+[WARNING] Failed to import "3": Invalid post type give_payment
+[WARNING] Failed to import "4": Invalid post type give_payment
+[WARNING] Failed to import "5": Invalid post type give_payment
+[WARNING] Could not find the post parent for "Help a Child" (post #447)
+[WARNING] Could not find the post parent for "Save the Bees" (post #448)
+[WARNING] Could not find the post parent for "Make a wish Foundation" (post #449)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Imported
+RARA: Featured Post - No Title - Imported
+RARA: Recent Post - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+Footer One : 
+
+Navigation Menu - Donate - Imported
+
+Footer Two : 
+
+Navigation Menu - About Us - Imported
+
+Footer Three : 
+
+Navigation Menu - Privacy - Imported
+
+Footer Four : 
+
+RARA: Social Links - Social Media - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
